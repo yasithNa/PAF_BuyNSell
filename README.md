@@ -1,9 +1,9 @@
 # PAF_BuyNSell
 A Buying and Selling basic platform using java and some micro web services
 
-In this part only the back-end part si developed
+In this part only the back-end part is developed
 
-you have to use SOAPUI tool and hav eto insert below URL:
+you have to use SOAPUI tool and have to insert below URL:
 
 http://localhost:8083/register/user
 
